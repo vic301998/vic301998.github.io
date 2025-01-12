@@ -332,6 +332,23 @@ button:focus {
 	transform: scale(1);
 }
 
+/*--------------------*/
+/* PRUEBA */
+/*--------------------
+.seccion-fondo {
+    background-image: url("assets/images/Designer.jpeg");
+    background-size: cover; 
+    background-position: left; 
+    color: white; 
+    padding: 50px; 
+    opacity: 0.8; 
+}
+
+.seccion-fondo h1, .seccion-fondo p {
+    position: relative;
+    z-index: 1; 
+}
+*/
 
 /*--------------------*/
 /* FEATURED SLIDER */

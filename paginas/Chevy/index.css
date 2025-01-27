@@ -22,10 +22,6 @@
   margin: 63px 64px 60px auto;
 }
 
-.u-section-1 .embed-responsive-1 {
-  position: absolute;
-}
-
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
     min-height: 861px;
@@ -40,13 +36,6 @@
     height: 452px;
     width: 940px;
     margin-right: 0;
-  }
-
-  .u-section-1 .embed-responsive-1 {
-    width: 178%;
-    left: -39%;
-    height: 178%;
-    top: -39%;
   }
 }
 
